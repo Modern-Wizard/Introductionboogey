@@ -34,5 +34,14 @@ You may find these files in the /home/ubuntu/Desktop/Artefacts directory.
     Volatility - an open-source framework for extracting digital artefacts from volatile memory (RAM) samples.
     
 <div>
+<img src="https://github.com/Modern-Wizard/Introductionboogey/blob/main/ss2.png" />
+</div>
+
+Note: Volatility may take a few minutes to parse the memory dump and run the plugin. For plugin reference, check the Volatility 3 documentation.
+
+Olevba - a tool for analysing and extracting VBA macros from Microsoft Office documents. This tool is also a part of the Oletools suite.
+
+<div>
 <img src="" />
 </div>
+
